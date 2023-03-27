@@ -3,5 +3,439 @@
   margin:0;
   padding:0;
   box-sizing: border-box;
+
+}
+body{
   
+background: #2e2e39;
+display: flex;
+justify-content: center;
+margin:50px 0px;
+}
+
+h1{
+
+font-family: 'Amatic SC', cursive;
+font-size: 50px;
+  color:white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#ex1 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex1 p{
+
+  padding:10px;
+}
+
+#ex1 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex1 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex1 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 2 */
+
+#ex2 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex2 p{
+
+  padding:10px;
+}
+
+#ex2 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex2 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex2 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 3 */
+
+#ex3 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex3 p{
+
+  padding:10px;
+}
+
+#ex3 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex3 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex3 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 4 */
+
+#ex4 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex4 p{
+
+  padding:10px;
+}
+
+#ex4 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex4 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex4 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 5 */
+
+#ex5 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex5 p{
+
+  padding:10px;
+}
+
+#ex5 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex5 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex5 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 6 */
+
+#ex6 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex6 p{
+
+  padding:10px;
+}
+
+#ex6 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex6 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex6 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 7 */
+
+#ex7 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex7 p{
+
+  padding:10px;
+}
+
+#ex7 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex7 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex7 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 8 */
+
+#ex8 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex8 p{
+
+  padding:10px;
+}
+
+#ex8 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex8 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex8 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 9 */
+
+#ex9 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex9 p{
+
+  padding:10px;
+}
+
+#ex9 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex9 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex9 button:hover{
+
+  font-size: 15.5px;
+}
+
+/* exercicio 10 */
+
+#ex10 {
+  font-family: 'Inter', sans-serif;
+color:white;
+  border:3px solid #60cf8c;
+  border-radius: 20px;
+  padding:15px;
+  background: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+#ex10 p{
+
+  padding:10px;
+}
+
+#ex10 input{
+
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #60cf8c;
+  border-radius: 10px;
+  padding:6px;
+  color:white;
+}
+
+#ex10 button{
+
+  background-color: #60cf8c;
+  padding: 5px;
+  border:none;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-left:10px;
+  transition:0.3s;
+}
+
+#ex10 button:hover{
+
+  font-size: 15.5px;
 }
