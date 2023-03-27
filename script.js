@@ -48,6 +48,61 @@ function ex5() {
   alert("O novo preço é de: R$" + result5)
 }
 
-function ex6() {}
+function ex6() {
+  let number1 = Number(document.getElementById("number1").value)
+  let number2 = Number(document.getElementById("number2").value)
 
-function ex7() {}
+  let comissao = number2 * 0.04
+  let result6 = number1 + comissao
+
+  alert(
+    "A comissão do funcionário é de R$ " +
+      comissao +
+      " ,logo seu salário final é de R$ " +
+      result6
+  )
+}
+
+function ex7() {
+  let weight = Number(document.getElementById("weight").value)
+
+  let more = weight * 0.15
+  let less = weight * 0.2
+
+  let resultmore7 = weight + more
+  let resultless7 = weight - less
+
+  alert(
+    "Seu peso caso engorde 15% é de " +
+      resultmore7 +
+      " kg, e seu peso caso emagreça 20% é de " +
+      resultless7 +
+      " kg."
+  )
+}
+
+function ex8() {
+  let weight1 = Number(document.getElementById("weight1").value)
+
+  let result8 = weight1 * 1000
+
+  alert("O seu peso em gramas é de: " + result8 + " g.")
+}
+
+function ex9() {
+  let bb = Number(document.getElementById("bb").value)
+  let mb = Number(document.getElementById("mb").value)
+  let height = Number(document.getElementById("height").value)
+
+  let result9 = ((bb + mb) * height) / 2
+
+  alert("A área do trapézio é: " + result9)
+}
+
+function ex10() {
+  let side = Number(document.getElementById("side").value)
+
+  let result10 = side * side
+
+  alert("A área do quadrado é: " + result10)
+}
