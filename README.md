@@ -4,7 +4,7 @@
 <a href="https://guilhermesandrade.github.io/Calculators-homework/">Teste o Projeto aqui ! </a>
 </p>
 
-<img src=""></img>
+<img src="#"></img>
 
 <h1 align="center"> 💻 Sobre o Projeto</h1>
 
