@@ -106,3 +106,28 @@ function ex10() {
 
   alert("A área do quadrado é: " + result10)
 }
+
+function ex11(){
+
+  let salary= Number(document.getElementById("salary").value)
+  let increase
+  let fsalary
+
+  if (salary <= 300) {
+    increase = salary * 0.15
+    fsalary = salary + increase
+  } else if ((salary > 300) && (salary <= 600)) {
+    increase = salary * 0.1
+    fsalary = salary + increase
+  } else if ((salary > 600) && (salary <= 900)) {
+    increase = salary * 0.05
+    fsalary = salary + increase
+  }else{
+
+    increase = salary * 0
+    fsalary = salary + increase
+  }
+
+document.getElementById("fsalary").innerHTML = "O salário final é de R$ " + fsalary
+
+}
