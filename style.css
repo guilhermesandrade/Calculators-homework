@@ -185,3 +185,11 @@ padding:15px;
 background: rgba(0, 0, 0, 0.1);
 font-size:20px;
 }
+
+#fsalary{
+
+  margin-top: 10px;
+  width:350px;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
