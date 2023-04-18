@@ -8,7 +8,7 @@
 
 <h1 align="center"> 💻 Sobre o Projeto</h1>
 
-<p align="center">A ideia do site veio através de um trabalho de faculdade, onde eu teria que desenvolver as soluções para 10 problemas em JavaScript, então resolvi deixá-lo um pouco mais interessante através do Css. O objetivo é que seja um site simples e funcional, contando com as calculadoras para 10 tipos de operações diferentes e com o resultado 100% certeiro. <a href="https://guilhermesandrade.github.io/Calculators-homework/">Acessar o projeto</a></p>
+<p align="center">A ideia do site veio através de um trabalho de faculdade, onde eu teria que desenvolver as soluções para 11 problemas em JavaScript, então resolvi deixá-lo um pouco mais interessante através do Css. O objetivo é que seja um site simples e funcional, contando com as calculadoras para 11 tipos de operações diferentes e com o resultado 100% certeiro. <a href="https://guilhermesandrade.github.io/Calculators-homework/">Acessar o projeto</a></p>
 <br/>
 
 <h1 align="center"> ⚙ Tecnologias </h1>
